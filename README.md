@@ -56,7 +56,7 @@ Gazebo simulated real-world physics in a high fidelity simulation. It helps deve
 $ roslaunch robot_arm_pkg check_motors_gazebo.launch
 ~~~
 
-<img src=https://github.com/user-attachments/assets/d36998e9-7319-4cc5-91b6-e77f331ebba0 width=50%>
+<img src=https://github.com/user-attachments/assets/d36998e9-7319-4cc5-91b6-e77f331ebba0 width=50%> <br> <br>
 
 
 ## ^ Controlling the robot arm by Moveit and kinematics
