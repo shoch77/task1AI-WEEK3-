@@ -1,8 +1,11 @@
 # task1AI-WEEK3-
 ### ^^ Controlling the robot arm by (joint_state_publisher) and (Moveit and kinematics) <br> <br>
 ~~~
-before we start, we make sure to prepare our workspace  (i already did in my previous task) 
+before we start, we make sure to ....
 ~~~
+
+### Prepare our workspace  (i already did in my previous task) <br>
+
 <img src=https://github.com/user-attachments/assets/ac41d888-c29d-4ac6-9c62-ef4da41cfda5 width=50%>
 
 ### - Install the Packages into our /catkin_ws/src
